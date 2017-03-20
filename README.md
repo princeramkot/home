@@ -1,1 +1,1 @@
-# [design style](http://home.soft.dog/)
+# [design style](http://design.soft.dog/)
